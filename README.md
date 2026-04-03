@@ -46,7 +46,9 @@
 
 | Desktop | Terminal | Bar |
 |:---:|:---:|:---:|
-| `screenshot here` | `screenshot here` | `screenshot here` |
+| <img width="1234" height="478" alt="Screenshot 2026-04-03 121821" src="https://github.com/user-attachments/assets/1ac750cd-89c1-47bc-abf1-9ab726f17548" /> | <img width="1919" height="1076" alt="Screenshot 2026-04-03 121616" src="https://github.com/user-attachments/assets/158fe8d6-e242-43ee-9470-02f201993396" /> | <img width="1919" height="44" alt="Screenshot 2026-04-03 121739" src="https://github.com/user-attachments/assets/0e9959b8-0ed5-4e40-bff4-456dd69f5796" /> |
+
+</div>
 
 </div>
 
